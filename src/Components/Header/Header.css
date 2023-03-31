@@ -1,0 +1,10 @@
+.LS-header{
+    background-color:darkcyan;
+    min-height: 100%;
+    display: flex;
+    position: static;
+}
+
+.Logo{
+    text-align: right;
+}
